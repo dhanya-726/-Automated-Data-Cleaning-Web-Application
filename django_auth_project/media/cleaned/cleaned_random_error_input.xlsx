@@ -1,0 +1,91 @@
+User_ID,Name,Email,Join_Date,Purchase_Amt
+1001,Alice Smith,alice.s@email.com,2023-01-01 00:00:00,150.25
+1002,Bob Jones,bjones@email.com,2023-01-02 00:00:00,0.0
+1003,Charlie Brown,charlie.b@email.com,None,200.0
+1004,David Miller,dmiller@email.com,2023-01-04 00:00:00,50.75
+1005,Edward Norton,enorton@email.com,2023-01-05 00:00:00,300.0
+1006,Fiona Gallagher,Missing,2023-01-06 00:00:00,120.0
+1007,George Harris,gharris@email.com,2023-01-07 00:00:00,0.0
+1008,Hannah Abbott,h.abbott@email.com,2023-01-08 00:00:00,450.0
+1009,Ian Wright,iwright@email.com,2023-01-09 00:00:00,95.5
+1010,Jenny Slate,jslate@email.com,2023-01-10 00:00:00,210.0
+1011,Kevin Hart,khart@email.com,2023-01-11 00:00:00,180.0
+1012,Laura Palmer,lpalmer@email.com,None,500.0
+1013,Mike Ross,mross@email.com,2023-01-13 00:00:00,0.0
+1014,Nina Simone,nsimone@email.com,2023-01-14 00:00:00,225.0
+1015,Oscar Wilde,owilde@email.com,2023-01-15 00:00:00,130.0
+1016,Paul Rudd,prudd@email.com,2023-01-16 00:00:00,410.0
+1017,Quentin Blake,qblake@email.com,2023-01-17 00:00:00,85.0
+1018,Rose Tyler,rtyler@email.com,2023-01-18 00:00:00,0.0
+1019,Steve Rogers,srogers@email.com,2023-01-19 00:00:00,600.0
+1020,Tony Stark,tstark@email.com,2023-01-20 00:00:00,1000.0
+1021,Ursula Corbero,ucorbero@email.com,None,145.0
+1022,Victor Hugo,vhugo@email.com,2023-01-22 00:00:00,320.0
+1023,Wanda Maximoff,wanda.m@email.com,2023-01-23 00:00:00,275.0
+1024,Xavier Musk,xmusk@email.com,2023-01-24 00:00:00,0.0
+1025,Yuri Gagarin,ygagarin@email.com,2023-01-25 00:00:00,400.0
+1026,Zane Grey,zgrey@email.com,2023-01-26 00:00:00,115.0
+1027,Amy Pond,apond@email.com,2023-01-27 00:00:00,190.0
+1028,Bill Nye,bnye@email.com,2023-01-28 00:00:00,0.0
+1029,Clara Oswald,coswald@email.com,2023-01-29 00:00:00,230.0
+1030,Donna Noble,dnoble@email.com,2023-01-30 00:00:00,310.0
+1031,Eric Cartman,ecartman@email.com,2023-01-31 00:00:00,50.0
+1032,Fred Flintstone,fflint@email.com,None,125.0
+1033,Gina Linetti,glinetti@email.com,2023-02-01 00:00:00,420.0
+1034,Harry Potter,hpotter@email.com,2023-02-02 00:00:00,160.0
+1035,Iris West,iwest@email.com,2023-02-03 00:00:00,0.0
+1036,Jim Halpert,jhalpert@email.com,2023-02-04 00:00:00,240.0
+1037,Kelly Kapoor,kkapoor@email.com,2023-02-05 00:00:00,135.0
+1038,Lex Luthor,lluthor@email.com,2023-02-06 00:00:00,900.0
+1039,Matt Murdock,mmurdock@email.com,2023-02-07 00:00:00,215.0
+1040,Ned Stark,nstark@email.com,None,350.0
+1041,Olive Oil,ooil@email.com,2023-02-09 00:00:00,80.0
+1042,Peter Parker,pparker@email.com,2023-02-10 00:00:00,0.0
+1043,Quinn Fabray,qfabray@email.com,2023-02-11 00:00:00,170.0
+1044,Robin Hood,rhood@email.com,2023-02-12 00:00:00,110.0
+1045,Sam Winchester,swin@email.com,2023-02-13 00:00:00,440.0
+1046,Tom Riddle,triddle@email.com,2023-02-14 00:00:00,0.0
+1047,Uber Driver,u.driver@email.com,2023-02-15 00:00:00,25.0
+1048,Velma Dinkley,vdinkley@email.com,2023-02-16 00:00:00,195.0
+1049,Will Byers,wbyers@email.com,2023-02-17 00:00:00,0.0
+1050,Xena Warrior,xwarrior@email.com,2023-02-18 00:00:00,360.0
+1051,Yuri Boyka,yboyka@email.com,2023-02-19 00:00:00,280.0
+1052,Zelda Link,zlink@email.com,None,550.0
+1053,Abe Lincoln,alincoln@email.com,2023-02-21 00:00:00,100.0
+1054,Barry Allen,ballen@email.com,2023-02-22 00:00:00,0.0
+1055,Clark Kent,ckent@email.com,2023-02-23 00:00:00,205.0
+1056,Diana Prince,dprince@email.com,2023-02-24 00:00:00,750.0
+1057,Eleven Hopper,ehopper@email.com,2023-02-25 00:00:00,140.0
+1058,Flash Gordon,fgordon@email.com,2023-02-26 00:00:00,0.0
+1059,Guy Fieri,gfieri@email.com,2023-02-27 00:00:00,260.0
+1060,Harvey Specter,hspecter@email.com,2023-02-28 00:00:00,800.0
+1061,Ivan Drago,idrago@email.com,2023-03-01 00:00:00,330.0
+1062,John Wick,jwick@email.com,2023-03-02 00:00:00,0.0
+1063,Katniss Everdeen,keverdeen@email.com,2023-03-03 00:00:00,290.0
+1064,Luke Skywalker,lsky@email.com,None,410.0
+1065,Marty McFly,mmcfly@email.com,2023-03-05 00:00:00,185.0
+1066,Neo Anderson,nando@email.com,2023-03-06 00:00:00,500.0
+1067,Optimus Prime,oprime@email.com,2023-03-07 00:00:00,0.0
+1068,Peggy Carter,pcarter@email.com,2023-03-08 00:00:00,220.0
+1069,Quicksilver,qsilver@email.com,2023-03-09 00:00:00,155.0
+1070,Rick Sanchez,rsanchez@email.com,2023-03-10 00:00:00,99.0
+1071,Sherlock Holmes,sholmes@email.com,2023-03-11 00:00:00,0.0
+1072,Thor Odinson,thor@email.com,2023-03-12 00:00:00,880.0
+1073,Ulysses Grant,ugrant@email.com,2023-03-13 00:00:00,110.0
+1074,Vito Corleone,vcorleone@email.com,2023-03-14 00:00:00,0.0
+1075,Winston Smith,wsmith@email.com,2023-03-15 00:00:00,120.0
+1076,X-Ray Man,xray@email.com,2023-03-16 00:00:00,235.0
+1077,Yoshi Dino,yoshi@email.com,None,60.0
+1078,Zorro Mask,zorro@email.com,2023-03-18 00:00:00,305.0
+1079,Arthur Dent,adent@email.com,2023-03-19 00:00:00,42.0
+1080,Bilbo Baggins,bbaggins@email.com,2023-03-20 00:00:00,0.0
+1081,Casey Jones,cjones@email.com,2023-03-21 00:00:00,145.0
+1082,Dexter Morgan,dmorgan@email.com,2023-03-22 00:00:00,265.0
+1083,Ellen Ripley,eripley@email.com,2023-03-23 00:00:00,375.0
+1084,Finn Mertens,finn@email.com,2023-03-24 00:00:00,0.0
+1085,Gandalf Grey,ggrey@email.com,2023-03-25 00:00:00,600.0
+1086,Homer Simpson,hsimpson@email.com,2023-03-26 00:00:00,55.0
+1087,Indiana Jones,ijones@email.com,2023-03-27 00:00:00,320.0
+1088,Joker Napier,jnapier@email.com,2023-03-28 00:00:00,0.0
+1089,Kyle Broflovski,kyleb@email.com,2023-03-29 00:00:00,125.0
+1090,Lara Croft,lcroft@email.com,2023-03-30 00:00:00,440.0
