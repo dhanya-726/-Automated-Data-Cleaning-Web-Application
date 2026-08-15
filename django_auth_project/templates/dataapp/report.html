@@ -1,0 +1,16 @@
+{% extends 'accounts/base.html' %}
+
+{% block content %}
+<h2>Data Analysis Report</h2>
+
+<h4>Missing Values</h4>
+<pre>{{ report.missing }}</pre>
+
+<h4>Duplicate Rows</h4>
+<p>{{ report.duplicates }}</p>
+
+<h4>Column Data Types</h4>
+<pre>{{ report.dtypes }}</pre>
+
+<a href="{% url 'download_cleaned' file_id %}" class="btn">Download Cleaned File</a>
+{% endblock %}

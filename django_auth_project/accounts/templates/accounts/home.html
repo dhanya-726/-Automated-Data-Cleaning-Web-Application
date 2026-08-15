@@ -1,0 +1,13 @@
+{% extends 'accounts/base.html' %}
+
+{% block title %}Home{% endblock %}
+
+{% block content %}
+<h1>Welcome, {{ user.username }}! 🎉</h1>
+<p style="text-align: center; color: #666; margin-top: 1rem;">
+    You are successfully logged in to the Django Authentication System.
+</p>
+<div style="margin-top: 2rem; text-align: center;">
+    <a href="{% url 'logout' %}" class="btn">Logout</a>
+</div>
+{% endblock %}
